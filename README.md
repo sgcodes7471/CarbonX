@@ -1,6 +1,6 @@
 
 # CarbonX
-## The app is deployed at: ['carbonX')(https://carbonx-alpha.vercel.app/)
+## The app is deployed at: [carbonX](https://carbonx-alpha.vercel.app/)
 #### A decentralized energy distribution system that enables direct peer-to-peer energy trading, verifiable carbon credit transactions, and efficient smart grid management while ensuring equitable market participation and environmental sustainability
 
 #### To read all the documentations and work flow refer to the ['docs'](https://github.com/sgcodes7471/CarbonX/tree/main/docs) directory
